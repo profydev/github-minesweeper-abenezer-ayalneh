@@ -29,6 +29,7 @@
     "unflag C8",
     "unflag H3",
     "clear C8",
-    "clear H3"
+    "clear H3",
+    "end"
   ]
 }
